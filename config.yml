@@ -1,0 +1,6 @@
+db_user: "seoSuperUser"
+db_password: "ronin95PG"
+db_host: "localhost"
+db_port: "5432"
+db_name: "blog"
+db_driver: "postgres"
